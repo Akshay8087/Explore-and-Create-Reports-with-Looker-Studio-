@@ -10,7 +10,6 @@ This repository documents my completion of the Google Cloud lab **"Explore and C
 - 🛠 **Platform:** Qwiklabs (Google Cloud Skills Boost)
 
 ## 🚀 What I Learned
-![Image](https://github.com/user-attachments/assets/e2c11ad9-5929-47a3-a320-29789f03174a)
 
 
 - How to launch **Looker Studio**
@@ -27,6 +26,8 @@ I created a report titled **Product Inventory Watchlist** using:
 - Customized visuals and filters for a user-friendly interface
 
 ## 📷 Sample Visual
+![Image](https://github.com/user-attachments/assets/e2c11ad9-5929-47a3-a320-29789f03174a)
+
 *Due to environment restrictions, sample screenshots are not shared. Recreate using GCP and Looker Studio for hands-on practice.*
 
 ## 🔗 Skills Gained
